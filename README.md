@@ -7,7 +7,7 @@
 </p>
 
 
-## Features:
+## Improved Features:
 
 - Single window -> GUI with multiple tabs
 - Limited file signatures (6 types) -> Extensive file type support (15+ types)
